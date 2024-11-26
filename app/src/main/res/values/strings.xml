@@ -1,0 +1,15 @@
+<resources>
+    <string-array name="namaTask">
+    </string-array>
+
+    <string-array name="tanggalTask">
+    </string-array>
+
+    <string-array name="deskripsiTask">
+    </string-array>
+
+    <string-array name="statusTask">
+    </string-array>
+
+    <string name="app_name" />
+</resources>
